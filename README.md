@@ -1,2 +1,3 @@
 # -
-练习记录
+练习记录firest
+fighting,relaxed,
